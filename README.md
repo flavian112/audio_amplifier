@@ -46,6 +46,8 @@ their power supplies.
 - [RCA Jack](./datasheets/kobiconn_rca_jacks.pdf)
 - [EAC309X Power Terminal](./datasheets/switchcraft_eac309x_power_terminal.pdf)
 - [LK2NG Speaker Terminal](./datasheets/visaton_5189_5192_5183_5182_5195_speaker_terminal.pdf)
+- [IZ59 Transformer](./datasheets/elma_TT_iz59_transformer.pdf)
+- [858741 Center Tapped Ring Transformer](./datasheets/sedlbauer_858741_ct_ringtransformer.pdf)
 
 ## References
 
