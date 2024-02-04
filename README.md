@@ -3,6 +3,13 @@
 This amplifier project contains an audio power amplifier a preamplifier and
 their power supplies.
 
+## Repositories
+
+- [Audio Power Amplifier](https://github.com/flavian112/audio_power_amplifier.git)
+- [Audio Power Amplifier Power Supply](https://github.com/flavian112/audio_power_amplieier_power_supply.git)
+- [Audio Preamplifier](https://github.com/flavian112/audio_preamplifier.git)
+- [Audio Preamplifier Power Supply](https://github.com/flavian112/audio_preamplifier_power_supply.git)
+
 ## Files
 
 ### Power Amplifier
