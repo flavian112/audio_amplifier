@@ -10,6 +10,11 @@ their power supplies.
 - [Audio Preamplifier](https://github.com/flavian112/audio_preamplifier.git)
 - [Audio Preamplifier Power Supply](https://github.com/flavian112/audio_preamplifier_power_supply.git)
 
+## References
+
+- [Elliott Sound Products - Hi-Fi Power Amplifier](https://sound-au.com/project3a.htm)
+- [Elliott Sound Products - Hi-Fi Preamplifier](https://sound-au.com/project97.htm)
+
 ## Files
 
 ### Power Amplifier
