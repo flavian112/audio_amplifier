@@ -67,3 +67,15 @@ their power supplies.
 #### 3D View
 
 ![Preamplifier Power Supply 3D View](./assets/audio_preamplifier_power_supply_3dview.png)
+
+## Photos
+
+![Rev 1](./photos/rev1.jpg)
+![Testing](./photos/testing.jpg)
+![Layed Out](./photos/layed_out.jpg)
+![Building Chassis 1](./photos/building_chassis_1.jpg)
+![Building Chassis 2](./photos/building_chassis_2.jpg)
+![Me Testing](./photos/me_testing.jpg)
+![In Chassis 1](./photos/in_chassis_1.jpg)
+![In Chassis 2](./photos/in_chassis_2.jpg)
+![Assembled](./photos/assembled.jpg)
