@@ -32,3 +32,17 @@ their power supplies.
 #### 3D View
 
 ![Power Amplifier Power Supply 3D View](./assets/audio_power_amplifier_power_supply_3dview.png)
+
+### Preamplifier
+
+#### Schematic
+
+![Preamplifier Schematic](./assets/audio_preamplifier_schematic.svg)
+
+#### Board
+
+![Preamplifier Board](./assets/audio_preamplifier_board.svg)
+
+#### 3D View
+
+![Preamplifier 3D View](./assets/audio_preamplifier_3dview.png)
